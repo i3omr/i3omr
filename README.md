@@ -8,7 +8,6 @@ I'm a Computer Science student majoring in **Computer Networks & Security** at *
 
 - 🛰️ **Computer Networks & Security** – routing, switching, VLANs, ACLs, network design  
 - 🛡️ **Cybersecurity** – CTFs, basic forensics, OSINT, nmap, steganography, Wireshark analysis  
-- 💻 **Software Development** – Java, Python, C++, web development  
 - 🧪 **Hands-on learning** – building projects, labs, and simulations to understand concepts deeply  
 
 ---
