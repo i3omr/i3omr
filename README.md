@@ -104,17 +104,17 @@ I'm a Computer Science student majoring in **Computer Networks & Security** at *
       - Web Fundamentals Certificate
       - Web Application Pentesting
         
-  Belkasoft
+  - Belkasoft
       - Windows Forensics with Belkasoft
   
-  Microsoft
+  - Microsoft
       - Microsoft Certified: Azure Fundamentals
   
-  ICDL Arabia
+  - ICDL Arabia
       - International Computer Driver's License - Level One (ICDL)
   
-  Universiti Teknologi Malaysia:
-      - 3x UTM Dean's List
+  - Universiti Teknologi Malaysia:
+      - 4x UTM Dean's List
       - Certificate of Participation in UTMxUTHM CTF
     
 ---
