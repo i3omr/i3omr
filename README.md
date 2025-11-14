@@ -14,6 +14,10 @@ I'm a Computer Science student majoring in **Computer Networks & Security** at *
 
 ## 🧩 Highlighted Projects
 
+- **Network Traffic Anomaly Detection**
+  My first AI web application that uses Streamlit designed to examine PCAP files and flag unusual network activity using the IsolationForest algorithm.
+  👉 GitHub: [Network Traffic Anomaly Detection](https://github.com/i3omr/network-traffic-anamoly-detection)
+
 - **Computer Network Project**  
   Designed and configured the network infrastructure for a multi‐floor academic building, including physical layouts, topology diagrams, IP addressing, routing, VLAN segmentation, and DHCP services. Delivered floor plans, Packet Tracer simulation, and full group report 
   _Tools:_ Cisco Packet Tracer  
