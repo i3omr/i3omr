@@ -15,7 +15,6 @@ I'm a Computer Science student majoring in **Computer Networks & Security** at *
 ## 🧩 Highlighted Projects
 
 - **Network Traffic Anomaly Detection**
-  Conducted a simulated Man-in-the-Middle attack on the WhatsApp network, analyzing vulnerabilities and demonstrating mitigation strategies.
 
   My first AI web application that uses Streamlit designed to examine PCAP files and flag unusual network activity using the IsolationForest algorithm.
   👉 GitHub: [Network Traffic Anomaly Detection](https://github.com/i3omr/network-traffic-anamoly-detection)
