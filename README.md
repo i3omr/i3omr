@@ -1,8 +1,6 @@
 # Hi, I'm Omar Elashry 👋
 
-I'm a Computer Science student majoring in **Computer Networks & Security** at **Universiti Teknologi Malaysia (UTM)**, with a strong interest in **cybersecurity, network infrastructure, and digital forensics**.
-
-I love breaking things (ethically), understanding how they work, and then securing them again. I'm currently in the an active member of **UTM CyberX**.
+I'm a Computer Science student majoring in **Computer Networks & Security** at **Universiti Teknologi Malaysia (UTM)**, with an interest in **cybersecurity, network infrastructure, and digital forensics**. I'm currently in the an active member of **UTM CyberX**.
 
 ---
 
@@ -60,7 +58,7 @@ I love breaking things (ethically), understanding how they work, and then securi
 - OSINT, nmap, steganography basics  
 - Windows forensics (Autopsy, Belkasoft X basics)
 
-**Programming & Dev**
+**Programming & Dev** (kinda rusty right now T-T)
 
 - Languages: **C++**, **Python**, **Java**
 - Web: HTML, CSS, JavaScript
